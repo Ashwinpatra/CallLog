@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="textareaone">Text Area One!</string>
+	<string name="textareatwo">Text Area Two!</string>
+    <string name="app_name">Call Log</string>
+    <string name="showimage1">IMAGE ONE</string>
+    <string name="showimage2">IMAGE TWO</string>
+    <string name="showwhite">USE WHITE</string>
+    <string name="showblack">USE BLACK</string>
+    <string name="showalert">SHOW ALERT</string>
+    <color name="background">#00000000</color>
+    <color name="background2">#ffffffff</color>
+
+</resources>

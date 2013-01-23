@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/buttonone"
+        android:icon="@drawable/button1_pressed"
+        android:title="@string/showimage1"></item>
+
+    <item
+        android:id="@+id/buttontwo"
+        android:icon="@drawable/button1_focused"
+        android:title="@string/showimage2"></item>
+
+    <item
+        android:id="@+id/buttonthree"
+        android:icon="@drawable/menu3icon"
+        android:title="@string/showwhite"/>
+
+    <item
+        android:id="@+id/buttonfour"
+        android:icon="@drawable/menu4icon"
+        android:title="@string/showblack"/>
+
+    <item
+        android:id="@+id/buttonfive"
+        android:icon="@drawable/menu5icon"
+        android:title="@string/showalert"/>
+
+</menu>
